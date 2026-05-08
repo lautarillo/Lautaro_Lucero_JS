@@ -10,7 +10,7 @@
     "id": 2,
     "nombre": "Silent Hill 2",
     "precio": 18000,
-    "imagen": ".img/silencio.webp",
+    "imagen": "./img/silencio.webp",
     "frase": "Ahora estoy aquí sola..."
   },
   {
