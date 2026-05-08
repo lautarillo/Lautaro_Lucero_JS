@@ -2,7 +2,7 @@ let productos = [];
 let carrito = [];
 
 // traer productos desde JSON
-fetch("../data/productos.json")
+fetch("./data/productos.json")
   .then(res => res.json())
   .then(data => {
     productos = data;
@@ -107,7 +107,7 @@ document.getElementById("comprar").addEventListener("click", () => {
 
   Swal.fire({
     title: "Compra realizada",
-    text: "Gracias por tu compra 🎮",
+    text: "Gracias por tu compra",
     icon: "success"
   });
 
