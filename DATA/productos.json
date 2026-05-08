@@ -1,0 +1,23 @@
+[ 
+  {
+    "id": 1,
+    "nombre": "Resident Evil 4",
+    "precio": 15000,
+    "imagen": "./img/re4.webp",
+    "frase": "¿A donde van todos? ¿Al bingo?"
+  },
+  {
+    "id": 2,
+    "nombre": "Silent Hill 2",
+    "precio": 18000,
+    "imagen": "./img/silent hill2.webp",
+    "frase": "Ahora estoy aquí sola..."
+  },
+  {
+    "id": 3,
+    "nombre": "The Last Of Us 2",
+    "precio": 20000,
+    "imagen": "./img/tlou2.webp",
+    "frase": "No creo poder perdonarte nunca..."
+  }
+]
