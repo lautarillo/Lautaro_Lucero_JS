@@ -2,7 +2,7 @@ let productos = [];
 let carrito = [];
 
 // traer productos desde JSON
-fetch("./data/productos.json")
+fetch("data/productos.json")
   .then(res => res.json())
   .then(data => {
     productos = data;
